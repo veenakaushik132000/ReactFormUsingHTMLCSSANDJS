@@ -11,3 +11,111 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+.main {
+  width: 1400px;
+  height: 700px;
+  top: 554px;
+  left: 1189px;
+}
+.heading {
+  width: 470px;
+  height: 104px;
+  margin-top: 100px;
+  margin-left: 115px;
+}
+
+.h3 {
+  font-family: sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 52px;
+  letter-spacing: -0.4000000059604645px;
+  text-align: left;
+  color: #1e0e62;
+}
+
+.table {
+  width: 470px;
+  height: 445px;
+  margin-top: 55px;
+  margin-left: 115px;
+}
+
+.form label {
+  font-family: sans-serif;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 26px;
+  letter-spacing: 2px;
+  text-align: left;
+  border-radius: 3px;
+  opacity: 0.7;
+}
+.form input {
+  width: 470px;
+  height: 60px;
+  border-radius: 30px;
+  opacity: 0.5;
+  padding-left: 20px;
+  margin-top: 10px;
+}
+
+.hello {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 60px;
+}
+
+.submit {
+  background-color: #25dac5;
+  border-color: #25dac5;
+  color: antiquewhite;
+}
+
+.hello2 {
+  width: 240px;
+  height: 52px;
+  margin-left: 20px;
+}
+.hello2 p {
+  font-family: sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0px;
+  text-align: left;
+}
+.form button {
+  width: 210px;
+  height: 60px;
+  top: 639px;
+  left: 115px;
+  border-radius: 30px;
+}
+
+.pic {
+  /* width: 685px;
+  height: 700px; */
+  margin-left: 115px;
+}
+
+
+
+.table2 {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  display: flex ;
+  justify-content: center;
+  margin-top: 250px;
+  margin-bottom: 300px;
+}
+
+td, th {
+  border: 1px solid #bdbaba;
+  text-align: left;
+  padding: 8px;
+}
+
